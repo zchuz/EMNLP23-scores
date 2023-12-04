@@ -1,7 +1,7 @@
 # EMNLP 2023 scores from OpenReview
 Script to extract scores of EMNLP-2023 from openreview.
 
-Extracted results in _EMNLP-2023-accept-papers.xlsx_
+Extracted results in [_EMNLP-2023-accept-papers.xlsx_](./EMNLP-2023-accept-papers.xlsx)
 # Statistics
 Main Conference:
 
